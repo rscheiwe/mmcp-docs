@@ -26,5 +26,5 @@ export default defineConfig({
 		}),
 	],
 	site: 'https://rscheiwe.github.io',
-	base: 'mmcp-docs',
+	base: '/mmcp-docs/',
 });
